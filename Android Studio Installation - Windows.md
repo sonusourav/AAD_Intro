@@ -125,4 +125,7 @@ Now the installation process is done, and we can move to create our first app, *
 ![studio25](https://user-images.githubusercontent.com/34706326/54193670-91251380-44e0-11e9-99b4-56443682f64a.jpg)
 
 
-###
+### Video tutorial 
+
+You can follow this video for Windows installation 
+[Video Link](https://developer.android.com/studio/videos/studio-install-windows.mp4)
